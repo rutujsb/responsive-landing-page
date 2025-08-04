@@ -2,13 +2,7 @@
 
 A clean, simple, and responsive landing page built using **HTML5** and **CSS3**. This project was created as part of a web development task to demonstrate basic frontend skills including layout, responsiveness, and styling.
 
-##  Features
-
--  Header with logo and navigation links  
--  Hero section with headline, description, and call-to-action button  
--  Footer with social media/contact links  
--  Fully responsive layout (mobile-friendly using media queries)  
--  Clean and modern UI using Flexbox and CSS Grid
+Preview image= 
 
 ##  Technologies Used
 
